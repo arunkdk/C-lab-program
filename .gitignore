@@ -1,0 +1,7 @@
+# Ignore all files without extensions
+*.
+
+# Alternatively, ignore a specific binary like `a.out`
+a.out
+
+

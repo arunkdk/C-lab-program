@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Programs covered in lab-02</title>
-</head>
 <body>
     <h1>Programs covered in lab-02:</h1>
     <ol>

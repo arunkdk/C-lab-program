@@ -13,7 +13,7 @@ int main()
     printf("Enter the length of three sides of triangle:\n");
     scanf("%f%f%f", &a, &b, &c);
     s = (a+b+c)/2;
-    if( (a+b)<c || (a+b)==c || (b+c)<a || (b+c)==a || (a+c)<b || (a+c)==b )
+    if( (a+b)<= c|| (b+c)<=a ||  (a+c)<=b )
     {
         printf("Invalid Inputs!");
         exit(1);
